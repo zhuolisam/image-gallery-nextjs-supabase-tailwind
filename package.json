@@ -6,6 +6,8 @@
     "start": "next start"
   },
   "dependencies": {
+    "@supabase/supabase-js": "^1.35.6",
+    "@tailwindcss/aspect-ratio": "^0.4.2",
     "next": "latest",
     "react": "18.1.0",
     "react-dom": "18.1.0"
